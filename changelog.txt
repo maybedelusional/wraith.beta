@@ -1,0 +1,3 @@
+v1.2 - Added animated loader, auto-updater, and learning resolver!
+v1.1 - Added FLEX MODE and new visuals!
+v1.0 - Initial WRAITH.BETA release.
